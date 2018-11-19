@@ -1,0 +1,41 @@
+_repo: The-Leatherworker-in-Eighteenth-Century-Williamsburg-Being-an-Account-of-the-Nature-of-Leathe__58293
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Alger, Horatio, Jr.
+    aliases:
+    - Preston, Charles F.
+    - Alger, Horatio
+    - Putnam, Arthur Lee
+    - Jr., Horatio Alger
+    - Starr, Julian
+    birthdate: 1832
+    deathdate: 1899
+    gutenberg_agent_id: '168'
+    url: http://www.gutenberg.org/2009/agents/168
+    wikipedia: http://en.wikipedia.org/wiki/Horatio_Alger,_Jr.
+  - agent_name: Gill, Harold B.
+    gutenberg_agent_id: '49879'
+    url: http://www.gutenberg.org/2009/agents/49879
+creator:
+  author:
+    agent_name: Ford, Thomas K.
+    gutenberg_agent_id: '49248'
+    url: http://www.gutenberg.org/2009/agents/49248
+description: ''
+gutenberg_issued: '2018-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58293'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Leatherworker in Eighteenth-Century Williamsburg
+
+  Being an Account of the Nature of Leather, & of the Crafts
+
+  commonly engaged in the Making & Using of it.'
+url: http://www.gutenberg.org/ebooks/58293
