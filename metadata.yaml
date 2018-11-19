@@ -1,5 +1,5 @@
 _repo: The-Leatherworker-in-Eighteenth-Century-Williamsburg-Being-an-Account-of-the-Nature-of-Leathe__58293
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributors:
   - agent_name: Alger, Horatio, Jr.
@@ -17,12 +17,17 @@ contributor:
   - agent_name: Gill, Harold B.
     gutenberg_agent_id: '49879'
     url: http://www.gutenberg.org/2009/agents/49879
+covers:
+- cover_type: archival
+  image_path: 58293-h/images/cover.jpg
 creator:
   author:
     agent_name: Ford, Thomas K.
     gutenberg_agent_id: '49248'
     url: http://www.gutenberg.org/2009/agents/49248
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58293#The-Leatherworker-in-Eighteenth-Century-Williamsburg-Being-an-Account-of-the-Nature-of-Leathe_
 gutenberg_issued: '2018-11-17'
 gutenberg_type: Text
 identifiers:
